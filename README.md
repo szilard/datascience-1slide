@@ -1,5 +1,6 @@
 
-### Data Science in 1 Slide
+Data Science in 1 Slide
+=======================
 
 ![](ds.png)
 
