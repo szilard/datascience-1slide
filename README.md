@@ -4,6 +4,8 @@ Data Science in 1 Slide
 
 ![](ds.png)
 
+![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)
+
 -------------------------------------
 
 Made in January 2014. Adapted from
